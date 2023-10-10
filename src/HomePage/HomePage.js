@@ -196,7 +196,9 @@ function HomePage() {
             <article>
                 <h1>simplePieChart</h1>
                 <p>
-                    <canvas id="myChart" width="400" height="400"></canvas>
+
+                 <canvas id="myChart" width="400" height="400"></canvas>
+                 
                 </p>
             </article>
           
@@ -207,6 +209,7 @@ function HomePage() {
                 
             </article>
         </div>
+
 
     </main>
   );
